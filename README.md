@@ -1,2 +1,2 @@
-**AI Assignment 1:**
+**Genetic Algorithm**
 > Encrypting text using Genetic Algorithm.
